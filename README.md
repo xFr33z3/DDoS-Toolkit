@@ -8,7 +8,10 @@ It Supports UDP, TCP and HTTP
 # With this tool you will be able to perform DoS/DDoS attacks for educational purposes only.
 
 ## Usage
-download
+Clone this repository
+```bash
+git clone https://github.com/xFr33z3/DDoS-Toolkit.git
+```
 
 Maybe you should do it to make it work.
 ```bash
