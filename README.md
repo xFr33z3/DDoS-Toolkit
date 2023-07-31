@@ -5,7 +5,10 @@ Tool to perform DDoS attacks with different types of packets (for testing only)
 
 ## With this tool you will be able to perform ddos attacks for educational purposes only.
 
-### Attack Modes:
+### How to run it
+`python3 main.py <method> <time> <threads> <url/ip address>`
+
+### Attack methods:
 UDP
 TCP
 HTTP
