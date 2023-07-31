@@ -5,7 +5,7 @@ It Supports UDP, TCP and HTTP
 
 ![alt text](https://i.imgur.com/O0FHUxm.png)
 
-# With this tool you will be able to perform ddos attacks for educational purposes only.
+# With this tool you will be able to perform DoS/DDoS attacks for educational purposes only.
 
 ## Usage
 download
